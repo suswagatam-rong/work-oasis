@@ -1,0 +1,29 @@
+
+[
+  {
+    $search: {
+      index: "default",
+      text: {
+        query: "Java",
+        path: ["desc", "skills", "profile"],
+      },
+    },
+  },
+  {
+    $sort:
+      /**
+       *   1 := ascending
+       *  -1 := ascending
+       */
+      {
+        exp: 1,
+      },
+  },
+  {
+    $limit:
+      /**
+       * Provide the number of documents to limit.
+       */
+      10,
+  },
+]

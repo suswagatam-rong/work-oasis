@@ -1,0 +1,749 @@
+[{
+  "_id": {
+    "$oid": "6667bcc44fd723f157fd1e9d"
+  },
+  "desc": "Senior data scientist with extensive experience.",
+  "exp": 15,
+  "profile": "Expert Data Scientist",
+  "skills": [
+    "Python",
+    "Machine Learning",
+    "Deep Learning",
+    "Data Visualization"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6667bcc44fd723f157fd1e9c"
+  },
+  "desc": "Data scientist with end-to-end project experience.",
+  "exp": 12,
+  "profile": "Junior Data Scientist",
+  "skills": [
+    "Python",
+    "NumPy",
+    "Pandas",
+    "Matplotlib"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6667bcc44fd723f157fd1e98"
+  },
+  "desc": "Senior associate consultant for the Mumbai location.",
+  "exp": 15,
+  "profile": "Senior Architect",
+  "skills": [
+    "Java",
+    "JEE",
+    "Spring",
+    "Spring Boot",
+    "Microservices"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6667bcc44fd723f157fd1e99"
+  },
+  "desc": "Manager for onsite projects in the US and UK.",
+  "exp": 15,
+  "profile": "Senior Manager",
+  "skills": [
+    "Java",
+    "Blockchain",
+    "Android",
+    "Data Science"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6667bcc44fd723f157fd1e95"
+  },
+  "desc": "Software engineer who can work on enterprise projects using Spring Boot, MongoDB, and React.",
+  "exp": 1,
+  "profile": "Developer",
+  "skills": [
+    "Java",
+    "JEE",
+    "Spring",
+    "Spring Boot",
+    "Microservices"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6667bcc44fd723f157fd1e9a"
+  },
+  "desc": "DevOps engineer with experience in Kubernetes, Ansible, and Docker.",
+  "exp": 12,
+  "profile": "DevOps Engineer",
+  "skills": [
+    "C",
+    "C++",
+    "Java",
+    "Kubernetes"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6667bcc44fd723f157fd1e97"
+  },
+  "desc": "Associate consultant specializing in software architecture, Agile, and DevOps.",
+  "exp": 10,
+  "profile": "Architect",
+  "skills": [
+    "Java",
+    "JEE",
+    "Spring",
+    "Spring Boot",
+    "Microservices",
+    "AWS",
+    "Azure",
+    "DevOps"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6667bcc44fd723f157fd1e9b"
+  },
+  "desc": "Senior software engineer for the data department.",
+  "exp": 15,
+  "profile": "Data Engineer",
+  "skills": [
+    "Microservices",
+    "Hadoop",
+    "Big Data"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6667bcc44fd723f157fd1e96"
+  },
+  "desc": "Senior software engineer with expertise in core Java and concurrency.",
+  "exp": 5,
+  "profile": "Java Developer",
+  "skills": [
+    "Java",
+    "JEE",
+    "Spring",
+    "Spring Boot",
+    "Microservices",
+    "Threads"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6667bcc44fd723f157fd1e9e"
+  },
+  "desc": "Associate consultant for cloud services including AWS, PCF, Azure, and Red Hat.",
+  "exp": 10,
+  "profile": "Cloud Consultant",
+  "skills": [
+    "Java",
+    "JEE",
+    "Design Patterns",
+    "Spring Boot",
+    "Cloud",
+    "Microservices"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6667bd334fd723f157fd7409"
+  },
+  "desc": "Backend developer with experience in Node.js and Express.",
+  "exp": 4,
+  "profile": "Backend Developer",
+  "skills": [
+    "JavaScript",
+    "Node.js",
+    "Express",
+    "MongoDB",
+    "REST APIs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6667bd334fd723f157fd740d"
+  },
+  "desc": "Cybersecurity analyst with experience in threat detection and mitigation.",
+  "exp": 8,
+  "profile": "Cybersecurity Analyst",
+  "skills": [
+    "Python",
+    "Network Security",
+    "Penetration Testing",
+    "SIEM",
+    "Firewalls"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6667bd334fd723f157fd7415"
+  },
+  "desc": "DevOps engineer with proficiency in CI/CD pipelines and infrastructure as code.",
+  "exp": 5,
+  "profile": "DevOps Engineer",
+  "skills": [
+    "Jenkins",
+    "Git",
+    "Docker",
+    "Kubernetes",
+    "AWS"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6667bd334fd723f157fd740e"
+  },
+  "desc": "Cloud engineer specializing in AWS infrastructure and services.",
+  "exp": 6,
+  "profile": "Cloud Engineer",
+  "skills": [
+    "AWS",
+    "Terraform",
+    "Docker",
+    "Kubernetes",
+    "CI/CD"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6667bd334fd723f157fd740b"
+  },
+  "desc": "Machine learning engineer skilled in developing predictive models.",
+  "exp": 6,
+  "profile": "Machine Learning Engineer",
+  "skills": [
+    "Python",
+    "TensorFlow",
+    "Keras",
+    "Scikit-Learn",
+    "Pandas"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6667bd334fd723f157fd740c"
+  },
+  "desc": "Data engineer with expertise in data pipelines and ETL processes.",
+  "exp": 7,
+  "profile": "Data Engineer",
+  "skills": [
+    "Python",
+    "SQL",
+    "Hadoop",
+    "Spark",
+    "Airflow"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6667bd334fd723f157fd740f"
+  },
+  "desc": "Mobile developer experienced in building Android and iOS applications.",
+  "exp": 5,
+  "profile": "Mobile Developer",
+  "skills": [
+    "Java",
+    "Kotlin",
+    "Swift",
+    "React Native",
+    "Flutter"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6667bd334fd723f157fd7408"
+  },
+  "desc": "Frontend developer experienced in building responsive web applications.",
+  "exp": 3,
+  "profile": "Frontend Developer",
+  "skills": [
+    "JavaScript",
+    "React",
+    "HTML",
+    "CSS",
+    "Redux"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6667bd334fd723f157fd7419"
+  },
+  "desc": "IT support specialist with experience in troubleshooting and support.",
+  "exp": 3,
+  "profile": "IT Support Specialist",
+  "skills": [
+    "Active Directory",
+    "Windows",
+    "Linux",
+    "Networking",
+    "Customer Service"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6667bd334fd723f157fd7411"
+  },
+  "desc": "QA engineer skilled in automated testing and quality assurance.",
+  "exp": 4,
+  "profile": "QA Engineer",
+  "skills": [
+    "Selenium",
+    "JUnit",
+    "TestNG",
+    "Cucumber",
+    "Postman"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6667bd334fd723f157fd7417"
+  },
+  "desc": "UX/UI designer with a focus on creating user-centered designs.",
+  "exp": 4,
+  "profile": "UX/UI Designer",
+  "skills": [
+    "Sketch",
+    "Figma",
+    "Adobe XD",
+    "User Research",
+    "Prototyping"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6667bd334fd723f157fd7410"
+  },
+  "desc": "Database administrator with experience in managing and optimizing SQL databases.",
+  "exp": 9,
+  "profile": "Database Administrator",
+  "skills": [
+    "SQL",
+    "Oracle",
+    "MySQL",
+    "PostgreSQL",
+    "Performance Tuning"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6667bd334fd723f157fd7418"
+  },
+  "desc": "System administrator with experience in managing Linux and Windows servers.",
+  "exp": 6,
+  "profile": "System Administrator",
+  "skills": [
+    "Linux",
+    "Windows Server",
+    "Bash",
+    "PowerShell",
+    "Ansible"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6667bd334fd723f157fd741b"
+  },
+  "desc": "Salesforce developer with experience in building and customizing Salesforce applications.",
+  "exp": 5,
+  "profile": "Salesforce Developer",
+  "skills": [
+    "Apex",
+    "Visualforce",
+    "Salesforce Lightning",
+    "SOQL",
+    "REST APIs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6667bd334fd723f157fd7414"
+  },
+  "desc": "Product manager with experience in managing software product lifecycle.",
+  "exp": 8,
+  "profile": "Product Manager",
+  "skills": [
+    "Agile",
+    "Scrum",
+    "Roadmapping",
+    "JIRA",
+    "User Stories"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6667bd334fd723f157fd7416"
+  },
+  "desc": "Network engineer with experience in designing and implementing network solutions.",
+  "exp": 7,
+  "profile": "Network Engineer",
+  "skills": [
+    "Cisco",
+    "Juniper",
+    "Firewall",
+    "VPN",
+    "LAN/WAN"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6667bd334fd723f157fd7412"
+  },
+  "desc": "Technical writer with experience in creating documentation for software products.",
+  "exp": 3,
+  "profile": "Technical Writer",
+  "skills": [
+    "Markdown",
+    "XML",
+    "Confluence",
+    "MS Office",
+    "DITA"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6667bd334fd723f157fd740a"
+  },
+  "desc": "Full-stack developer proficient in both frontend and backend technologies.",
+  "exp": 5,
+  "profile": "Full-stack Developer",
+  "skills": [
+    "JavaScript",
+    "React",
+    "Node.js",
+    "Express",
+    "MongoDB"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6667bd334fd723f157fd741a"
+  },
+  "desc": "SEO specialist with experience in optimizing websites for search engines.",
+  "exp": 4,
+  "profile": "SEO Specialist",
+  "skills": [
+    "Google Analytics",
+    "SEO Tools",
+    "Keyword Research",
+    "Content Marketing",
+    "HTML"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6667bd334fd723f157fd7413"
+  },
+  "desc": "Business analyst with expertise in requirement gathering and analysis.",
+  "exp": 6,
+  "profile": "Business Analyst",
+  "skills": [
+    "UML",
+    "BPMN",
+    "SQL",
+    "JIRA",
+    "Confluence"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6667bd964fd723f157fdc0bc"
+  },
+  "desc": "ERP consultant experienced in implementing and customizing ERP systems.",
+  "exp": 7,
+  "profile": "ERP Consultant",
+  "skills": [
+    "SAP",
+    "Oracle ERP",
+    "Business Process Management",
+    "SQL",
+    "Project Management"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6667bd964fd723f157fdc0bf"
+  },
+  "desc": "IoT developer with experience in creating applications for Internet of Things devices.",
+  "exp": 4,
+  "profile": "IoT Developer",
+  "skills": [
+    "Python",
+    "C",
+    "IoT Platforms",
+    "Embedded Systems",
+    "Networking"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6667bd964fd723f157fdc0c2"
+  },
+  "desc": "IT project manager with experience in managing IT projects from initiation to closure.",
+  "exp": 9,
+  "profile": "IT Project Manager",
+  "skills": [
+    "Project Management",
+    "Agile",
+    "Scrum",
+    "Risk Management",
+    "Stakeholder Management"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6667bd964fd723f157fdc0c8"
+  },
+  "desc": "Machine learning scientist with expertise in developing advanced machine learning models.",
+  "exp": 8,
+  "profile": "Machine Learning Scientist",
+  "skills": [
+    "Python",
+    "TensorFlow",
+    "PyTorch",
+    "Scikit-Learn",
+    "Deep Learning"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6667bd964fd723f157fdc0c0"
+  },
+  "desc": "Big data engineer experienced in processing and analyzing large datasets.",
+  "exp": 6,
+  "profile": "Big Data Engineer",
+  "skills": [
+    "Hadoop",
+    "Spark",
+    "Scala",
+    "Kafka",
+    "NoSQL"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6667bd964fd723f157fdc0b9"
+  },
+  "desc": "Robotics engineer with experience in designing and programming robotic systems.",
+  "exp": 8,
+  "profile": "Robotics Engineer",
+  "skills": [
+    "C++",
+    "ROS",
+    "Python",
+    "Control Systems",
+    "Machine Learning"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6667bd964fd723f157fdc0b8"
+  },
+  "desc": "Site reliability engineer with a focus on maintaining and improving system reliability.",
+  "exp": 6,
+  "profile": "Site Reliability Engineer",
+  "skills": [
+    "Kubernetes",
+    "Prometheus",
+    "Grafana",
+    "Python",
+    "Bash"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6667bd964fd723f157fdc0bd"
+  },
+  "desc": "Embedded systems engineer with expertise in developing firmware for embedded devices.",
+  "exp": 6,
+  "profile": "Embedded Systems Engineer",
+  "skills": [
+    "C",
+    "C++",
+    "RTOS",
+    "Microcontrollers",
+    "Embedded Linux"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6667bd964fd723f157fdc0b6"
+  },
+  "desc": "Blockchain developer with expertise in building decentralized applications.",
+  "exp": 5,
+  "profile": "Blockchain Developer",
+  "skills": [
+    "Solidity",
+    "Ethereum",
+    "Smart Contracts",
+    "Hyperledger",
+    "Cryptography"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6667bd964fd723f157fdc0ba"
+  },
+  "desc": "Game developer with proficiency in creating games using Unity and Unreal Engine.",
+  "exp": 4,
+  "profile": "Game Developer",
+  "skills": [
+    "C#",
+    "Unity",
+    "Unreal Engine",
+    "3D Modeling",
+    "Animation"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6667bd964fd723f157fdc0c7"
+  },
+  "desc": "DevOps architect with expertise in designing and implementing DevOps solutions.",
+  "exp": 10,
+  "profile": "DevOps Architect",
+  "skills": [
+    "AWS",
+    "Docker",
+    "Kubernetes",
+    "CI/CD",
+    "Infrastructure as Code"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6667bd964fd723f157fdc0c1"
+  },
+  "desc": "Digital marketing specialist with expertise in online marketing strategies.",
+  "exp": 4,
+  "profile": "Digital Marketing Specialist",
+  "skills": [
+    "SEO",
+    "Google Analytics",
+    "Content Marketing",
+    "Social Media",
+    "Email Marketing"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6667bd964fd723f157fdc0bb"
+  },
+  "desc": "Business intelligence analyst with expertise in data visualization and reporting.",
+  "exp": 5,
+  "profile": "BI Analyst",
+  "skills": [
+    "SQL",
+    "Power BI",
+    "Tableau",
+    "Excel",
+    "Data Analysis"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6667bd964fd723f157fdc0c5"
+  },
+  "desc": "SAP consultant with expertise in SAP module implementation and customization.",
+  "exp": 7,
+  "profile": "SAP Consultant",
+  "skills": [
+    "SAP HANA",
+    "ABAP",
+    "FICO",
+    "MM",
+    "SD"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6667bd964fd723f157fdc0c9"
+  },
+  "desc": "UX researcher experienced in conducting user research and usability testing.",
+  "exp": 5,
+  "profile": "UX Researcher",
+  "skills": [
+    "User Research",
+    "Usability Testing",
+    "Persona Development",
+    "Wireframing",
+    "Prototyping"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6667bd964fd723f157fdc0c3"
+  },
+  "desc": "Software tester with expertise in manual and automated testing.",
+  "exp": 5,
+  "profile": "Software Tester",
+  "skills": [
+    "Selenium",
+    "JUnit",
+    "Manual Testing",
+    "Automated Testing",
+    "Bug Tracking"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6667bd964fd723f157fdc0c6"
+  },
+  "desc": "Hardware engineer experienced in designing and testing electronic circuits.",
+  "exp": 6,
+  "profile": "Hardware Engineer",
+  "skills": [
+    "PCB Design",
+    "VHDL",
+    "FPGA",
+    "Circuit Design",
+    "Embedded Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6667bd964fd723f157fdc0c4"
+  },
+  "desc": "IT consultant with experience in providing technology solutions to businesses.",
+  "exp": 8,
+  "profile": "IT Consultant",
+  "skills": [
+    "Business Analysis",
+    "Project Management",
+    "Technical Writing",
+    "Solution Architecture",
+    "Change Management"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6667bd964fd723f157fdc0b7"
+  },
+  "desc": "AI specialist with experience in developing AI models and applications.",
+  "exp": 7,
+  "profile": "AI Specialist",
+  "skills": [
+    "Python",
+    "TensorFlow",
+    "Keras",
+    "Machine Learning",
+    "Deep Learning"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6667bd964fd723f157fdc0be"
+  },
+  "desc": "CRM developer with experience in building and maintaining customer relationship management systems.",
+  "exp": 5,
+  "profile": "CRM Developer",
+  "skills": [
+    "Salesforce",
+    "Dynamics CRM",
+    "SQL",
+    "JavaScript",
+    "Apex"
+  ]
+}]

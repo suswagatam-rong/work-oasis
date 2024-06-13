@@ -1,0 +1,47 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="VulnerableLibrariesLocal" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="isIgnoringEnabled" value="true" />
+      <option name="ignoredModules">
+        <list>
+          <option value="jobListing" />
+          <option value="jobListing" />
+          <option value="jobListing" />
+          <option value="Work Oasis" />
+          <option value="Work Oasis" />
+          <option value="Work Oasis" />
+          <option value="Work Oasis" />
+          <option value="Work Oasis" />
+          <option value="Work Oasis" />
+        </list>
+      </option>
+      <option name="ignoredPackages">
+        <list>
+          <option value="ch.qos.logback:logback-classic:1.2.7" />
+          <option value="ch.qos.logback:logback-core:1.2.7" />
+          <option value="com.fasterxml.jackson.core:jackson-databind:2.12.5" />
+          <option value="ch.qos.logback:logback-classic:1.2.7" />
+          <option value="ch.qos.logback:logback-core:1.2.7" />
+          <option value="org.springframework.boot:spring-boot-autoconfigure:2.5.7" />
+          <option value="com.fasterxml.jackson.core:jackson-databind:2.12.5" />
+          <option value="com.google.guava:guava:20.0" />
+          <option value="com.jayway.jsonpath:json-path:2.5.0" />
+        </list>
+      </option>
+      <option name="ignoredReasons">
+        <list>
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Other" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
